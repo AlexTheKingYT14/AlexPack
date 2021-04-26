@@ -1,5 +1,4 @@
 # AlexPack
-_(juste en dessous des badges sympatiques à placer)_
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/featured/featured-made-with-crayons.svg)](http://forthebadge.com)
 
